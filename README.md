@@ -1,10 +1,8 @@
 # Machine Learning 
 
-## Background
+## Task
 
-Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system.
-
-To help process this data, you will create machine learning models capable of classifying candidate exoplanets from the raw dataset.
+To help process this data, I created machine learning models capable of classifying candidate exoplanets from the raw dataset.
 
 In this homework assignment, you will need to:
 
@@ -14,7 +12,7 @@ In this homework assignment, you will need to:
 
 - - -
 
-## Instructions
+## Task Process
 
 ### Preprocess the Data
 
