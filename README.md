@@ -28,7 +28,7 @@ In this repository I:
 
 ### Reporting
 
-* Create a README that reports a comparison of each model's performance as well as a summary about your findings and any assumptions you can make based on your model (is your model good enough to predict new exoplanets? Why or why not? What would make your model be better at predicting new exoplanets?).
+* I created a README that reports a comparison of each model's performance as well as a summary about my findings and any assumptions I made based on my model.
 
 - - -
 
