@@ -28,7 +28,9 @@ In this repository I:
 
 ### Reporting
 
-* I created a README that reports a comparison of each model's performance as well as a summary about my findings and any assumptions I made based on my model.
+* The column was removed when under 0.1
+Columns best fit 40(all) .884 32 .881 28 .882 20 .878 17 .878 * Stopped.
+No columns met the criteria of being in all 3 classes with coefficient of <0.1.
 
 - - -
 
